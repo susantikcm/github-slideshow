@@ -1,6 +1,7 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Susanti's slide!"
 ---
-Your text
-Use the left arrow to go back!
+
+I am  learning how to use github...
+It is very fun..
